@@ -60,7 +60,7 @@ It supports research on plant growth modeling, temporal segmentation, and 3D/4D 
 ### 3D-NOD: 3D New Organ Detection in Plant Growth by a Spatiotemporal Point Cloud Deep Segmentation Framework
 
 Dawei Li†, **Foysal Ahmed**†, Z. Wang† <br>
-<strong>Plant Phenomics</strong>, 2025.<br>.  
+<strong>Plant Phenomics</strong>, 2025.<br>
 † Contributed equally.
 
 **Brief Description:**  
