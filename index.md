@@ -59,7 +59,7 @@ It supports research on plant growth modeling, temporal segmentation, and 3D/4D 
 ### 3D-NOD: 3D New Organ Detection in Plant Growth by a Spatiotemporal Point Cloud Deep Segmentation Framework
 
 Dawei Li†, **Foysal Ahmed**†, Z. Wang†  
-**Plant Phenomics**, 2025.  
+<strong>Plant Phenomics</strong>, 2025.<br>.  
 † Contributed equally.
 
 **Brief Description:**  
@@ -82,7 +82,7 @@ By jointly modeling spatial structure and temporal growth dynamics, the proposed
 
 ### YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection
 Dawei Li† , **Foysal Ahmed**†
-**Plants**, 2022.  
+<strong>Plants</strong>, 2025.<br>
 † Contributed equally.
 
 **Brief Description:**  
