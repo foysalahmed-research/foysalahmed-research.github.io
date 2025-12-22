@@ -81,7 +81,7 @@ By jointly modeling spatial structure and temporal growth dynamics, the proposed
 ---
 
 ### YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection
-Dawei Li† , **Foysal Ahmed**†
+Dawei Li† , **Foysal Ahmed**†, N. Wu, and A. I. Sethi
 <strong>Plants</strong>, 2025.<br>
 † Contributed equally.
 
