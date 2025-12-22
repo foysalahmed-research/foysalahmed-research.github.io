@@ -41,7 +41,7 @@ It supports research on plant growth modeling, temporal segmentation, and 3D/4D 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/pepper4d_1.jpg" width="85%" />
+      <img src="assets/graphical_abstract_pepper_4d.jpg" width="85%" />
     </td>
   </tr>
   <tr>
