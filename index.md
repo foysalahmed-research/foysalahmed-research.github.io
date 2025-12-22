@@ -28,10 +28,11 @@ My research focuses on learning-based methods for analyzing **plant structure an
 
 ---
 
-## Recent Projects
+## Upcoming & Ongoing Projects
 
 ### 🌶️ Pepper-4D — 4D Plant Point Cloud Dataset
 **Pepper-4D** is a large-scale **4D (3D + time) point cloud dataset** designed for temporal plant phenotyping and structural growth analysis.
+<strong>Status:</strong> Under Review  <br>
 
 It supports research on plant growth modeling, temporal segmentation, and 3D/4D generative modeling.
 
