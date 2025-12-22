@@ -12,7 +12,7 @@
       <p><b></b></p>
       <p><b>Donghua University (211, Double First-Class)</b></p>
       <p><b>2999 North Renmin Rd., Songjiang District, Shanghai, China 201620</b></p>
-      <p><b>Email: foysal[A.T.]outlook.com</b></p>
+      <p><b>Email: foysal.9[A.T.]outlook.com</b></p>
     </td>
   </tr>
 </table>
