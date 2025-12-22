@@ -31,7 +31,8 @@ My research focuses on learning-based methods for analyzing **plant structure an
 ## Recent Projects
 
 ### 🌶️ Pepper-4D — 4D Plant Point Cloud Dataset
-**Pepper-4D** is a large-scale **4D (3D + time) point cloud dataset** designed for temporal plant phenotyping and structural growth analysis.  
+**Pepper-4D** is a large-scale **4D (3D + time) point cloud dataset** designed for temporal plant phenotyping and structural growth analysis.
+
 It supports research on plant growth modeling, temporal segmentation, and 3D/4D generative modeling.
 
 **Links**  
@@ -53,18 +54,17 @@ It supports research on plant growth modeling, temporal segmentation, and 3D/4D 
 
 ---
 
-
 ## Publications (Selected)
 
-### 3D-NOD: New Organ Detection in Plant Growth
-Dawei Li†, **Foysal Ahmed**†, Z. Wang† 
-*3D-NOD: 3D New Organ Detection in Plant Growth by a Spatiotemporal Point Cloud Deep Segmentation Framework*  
+### 3D-NOD: 3D New Organ Detection in Plant Growth by a Spatiotemporal Point Cloud Deep Segmentation Framework
+
+Dawei Li†, **Foysal Ahmed**†, Z. Wang†  
 **Plant Phenomics**, 2025.  
 † Contributed equally.
 
 **Brief Description:**  
 This paper presents a spatiotemporal deep learning framework for detecting newly emerged plant organs from 4D point cloud sequences.  
-By jointly modeling spatial structure and temporal growth dynamics, the method enables accurate and robust organ-level analysis throughout plant development.
+By jointly modeling spatial structure and temporal growth dynamics, the proposed method enables accurate and robust organ-level analysis during plant development.
 
 **Resources**  
 - 📄 **Paper:** https://www.sciencedirect.com/  
@@ -80,9 +80,8 @@ By jointly modeling spatial structure and temporal growth dynamics, the method e
 
 ---
 
-### YOLO-JD — Jute Disease and Pest Detection
-**Foysal Ahmed**†, Dawei Li†  
-*YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection*  
+### YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection
+Dawei Li† , **Foysal Ahmed**†
 **Plants**, 2022.  
 † Contributed equally.
 
@@ -108,6 +107,7 @@ This work proposes a YOLO-based detection framework for identifying jute disease
 - Google Scholar: *(add link)*  
 - Email: foysal.9[AT]outlook.com  
 
+---
 
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
