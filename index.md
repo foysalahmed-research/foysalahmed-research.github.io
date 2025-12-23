@@ -16,7 +16,7 @@ layout: default
 
 ## Academic History and Education Background
 
-I received my **Bachelor’s degree in Software Engineering** from **Daffodil International University**, Bangladesh, in **2018**. In **September 2019**, I was awarded the **Chinese Government Scholarship** and moved to China to pursue graduate studies. I completed my **Master’s degree in Information and Communication Engineering** at **Donghua University**, Shanghai, China, in **2022**. Following my master’s studies, I was awarded the **Shanghai Government Scholarship** to pursue my **PhD** at **Donghua University**. I am currently a PhD student in the **Information and Communication Intelligent Systems** program, where my research focuses on data-driven methods for **3D plant phenotyping, point cloud learning, and intelligent visual analysis**.
+I received my **Bachelor’s degree in Software Engineering** from **Daffodil International University**, Bangladesh, in **2018**. In **September 2019**, I was awarded the **Chinese Government Scholarship** and moved to China to pursue graduate studies. I completed my **Master’s degree in Information and Communication Engineering** at **Donghua University**, Shanghai, China, in **2022**. Following my master’s studies, I was awarded the **Shanghai Government Scholarship** to pursue my **PhD** at **Donghua University**. I am currently a PhD student in the **Information and Communication Intelligent Systems** program, where my research focuses on data-driven methods for **3D plant phenotyping, 3D point cloud processing, generative model and intelligent visual analysis**.
 
 
 ---
