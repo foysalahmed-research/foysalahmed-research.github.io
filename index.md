@@ -5,7 +5,7 @@ layout: default
 ## Foysal Ahmed
 
 **PhD Student**  
-Donghua University (211, Double First-Class) · Shanghai, China  
+**Donghua University (211, Double First-Class) · Shanghai, China**  
 
 📧 Email: foysal.9[AT]outlook.com  
 🌐 GitHub: https://github.com/foysalahmed-research  
@@ -14,9 +14,34 @@ Donghua University (211, Double First-Class) · Shanghai, China
 
 ---
 
-## About Me
-I am a PhD student at **Donghua University**, working on **3D plant phenotyping, point cloud learning, and deep learning**.  
-My research focuses on learning-based methods for analyzing **plant structure and growth using 3D and 4D data**, with applications in plant science, high-throughput phenotyping, and precision agriculture.
+## Academic History and Education Background
+
+I received my **Bachelor’s degree in Software Engineering** from **Daffodil International University**, Bangladesh, in **2018**. In **September 2019**, I was awarded the **Chinese Government Scholarship** and moved to China to pursue graduate studies. I completed my **Master’s degree in Information and Communication Engineering** at **Donghua University**, Shanghai, China, in **2022**. Following my master’s studies, I was awarded the **Shanghai Government Scholarship** to pursue my **PhD** at **Donghua University**. I am currently a PhD student in the **Information and Communication Intelligent Systems** program, where my research focuses on data-driven methods for **3D plant phenotyping, point cloud learning, and intelligent visual analysis**.
+
+
+---
+
+## Honors and Awards
+
+- **Shanghai Government Scholarship** for PhD Study, China  
+  Awarded for doctoral study at Donghua University.
+
+- **Chinese Government Scholarship** for Master’s Study, China  
+  Awarded for full-time master’s study at Donghua University.
+
+- **Excellent International Graduate Award**, Donghua University, China, 2022  
+  Awarded in recognition of outstanding academic performance and overall excellence during master’s study.
+
+- **Outstanding International Student Award**, Donghua University, China, 2021  
+  Awarded for excellent academic performance and active participation in university activities.
+
+- **Certificate of Honor for Outstanding Performance**,  
+  International Cultural Exchange School, Donghua University, 2019  
+  Awarded for outstanding performance during the International Cultural Festival of Donghua University.
+
+- **Certificate of Merit for Social Work**,  
+  International Cultural Exchange School, Donghua University, Spring 2023  
+  Awarded in recognition of contributions to social and cultural activities.
 
 ---
 
