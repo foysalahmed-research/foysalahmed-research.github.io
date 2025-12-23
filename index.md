@@ -298,7 +298,7 @@ This paper proposes a novel knowledge distillation framework to enhance small ob
 The method integrates attention-guided feature distillation and a feature-level deblurring subnet within a self-supervised learning paradigm, enabling robust detection without relying on explicit image deblurring. Experimental results on VisDrone and a newly developed UAV small object detection dataset demonstrate consistent performance improvements over state-of-the-art methods.
 
 **Resources**  
-- 📄 **Paper:** https://doi.org/10.1007/s40747-024-01676-w  
+- 📄 **Paper:** [https://doi.org/10.1007/s40747-024-01676-w  ](https://link.springer.com/article/10.1007/s40747-024-01676-w)
 - 💻 **Code:** *(to be released)*  
 
 <table border="0">
@@ -333,8 +333,8 @@ Dawei Li†, **Foysal Ahmed**†, N. Wu, and A. I. Sethi<br>
 This work proposes a YOLO-based detection framework for identifying jute diseases and pests from field images, enabling practical and efficient disease monitoring in real agricultural environments.
 
 **Resources**  
-- 📄 **Paper:** https://doi.org/10.3390/plants11070937  
-- 💻 **Code:** https://github.com/foysalahmed10/YOLO-JD  
+- 📄 **Paper:** [https://doi.org/10.3390/plants11070937 ](https://doi.org/10.3390/plants11070937) 
+- 💻 **Code:** [https://github.com/foysalahmed10/YOLO-JD  ](https://github.com/foysalahmed10/YOLO-JD)
 
 <table border="0">
   <tr>
@@ -370,7 +370,7 @@ Sayed Jobaer, Yihong Zhang*, Muhammad Ather Iqbal Hussain, **Foysal Ahmed**<br>
 This paper proposes a UAV-assisted hybrid routing framework for urban vehicular ad hoc networks (VANETs) to improve road safety and congestion control. By integrating unmanned aerial vehicles (UAVs) with roadside units and vehicular communication, the proposed scheme enhances packet delivery ratio, reduces end-to-end delay, and improves energy efficiency under realistic urban traffic conditions.
 
 **Resources**  
-- 📄 **Paper:** https://www.mdpi.com/2079-9292/9/9/1499  
+- 📄 **Paper:** [https://www.mdpi.com/2079-9292/9/9/1499](https://doi.org/10.3390/electronics9091499)
 - 💻 **Code:** *(to be released)*  
 
 <table border="0">
