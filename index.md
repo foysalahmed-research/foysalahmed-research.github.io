@@ -8,7 +8,7 @@ layout: default
 **Donghua University (211, Double First-Class) · Shanghai, China**  
 
 📧 Email: foysal.9[AT]outlook.com  
-🌐 GitHub: https://github.com/foysalahmed-research  
+🌐 GitHub: [https://github.com/foysalahmed-research  ](https://github.com/foysalahmed10)
 📄 CV: [Download CV](cv.pdf)  
 🎓 Google Scholar: *(add link)*  
 
