@@ -326,7 +326,7 @@ The method integrates attention-guided feature distillation and a feature-level 
 ### YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection
 
 Dawei Li†, **Foysal Ahmed**†, N. Wu, and A. I. Sethi<br>
-<strong>Plants</strong>, 2025.<br>
+<strong>Plants</strong>, 2022.<br>
 † Contributed equally.
 
 **Brief Description:**  
