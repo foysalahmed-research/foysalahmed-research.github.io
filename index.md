@@ -346,7 +346,6 @@ This work proposes a YOLO-based detection framework for identifying jute disease
   </tr>
 </table>
 
-<br>
 
 <table border="0">
   <tr>
