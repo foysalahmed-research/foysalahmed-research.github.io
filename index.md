@@ -397,24 +397,24 @@ This paper proposes a UAV-assisted hybrid routing framework for urban vehicular 
     Page views: <span id="busuanzi_value_site_pv">—</span>
   </p>
 
-  <!-- ClustrMaps -->
+  <!-- Visitor Map -->
   <div class="visitor-map">
     <script 
-      async 
-      id="clustrmaps"
-      src="https://clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a">
+      type="text/javascript" 
+      id="mmvst_globe" 
+      src="//mapmyvisitors.com/globe.js?d=_hWUodtZRAlm6HykAXB9pO3DOpUUhQQ7sCp_kY9ZW00">
     </script>
   </div>
 
 </div>
 
-<!-- Busuanzi Script -->
+<!-- Busuanzi Counter Script -->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 <style>
 /* Footer visitor statistics */
 .site-stats {
-  margin-top: 2em;
+  margin-top: 2.5em;
   text-align: center;
   font-size: 0.9em;
   color: #666;
@@ -431,12 +431,11 @@ This paper proposes a UAV-assisted hybrid routing framework for urban vehicular 
   margin: 0 auto;
 }
 
-/* Force ClustrMaps to be responsive */
-#clustrmaps,
-#clustrmaps iframe,
-[id^="clustrmaps-widget"] {
+/* Make MapMyVisitors globe responsive */
+#mmvst_globe,
+#mmvst_globe iframe,
+#mmvst_globe canvas {
   width: 100% !important;
   max-width: 100% !important;
 }
 </style>
-
