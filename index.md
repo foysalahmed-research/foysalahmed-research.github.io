@@ -295,6 +295,32 @@ This work proposes a YOLO-based detection framework for identifying jute disease
 
 ---
 
+### UAV-Assisted Hybrid Scheme for Urban Road Safety Based on VANETs
+
+Sayed Jobaer, Yihong Zhang*, Muhammad Ather Iqbal Hussain, **Foysal Ahmed**  
+<strong>Electronics</strong>, 2020.  
+*Corresponding author.*
+
+**Brief Description:**  
+This paper proposes a UAV-assisted hybrid routing framework for urban vehicular ad hoc networks (VANETs) to improve road safety and congestion control. By integrating unmanned aerial vehicles (UAVs) with roadside units and vehicular communication, the proposed scheme enhances packet delivery ratio, reduces end-to-end delay, and improves energy efficiency under realistic urban traffic conditions.
+
+**Resources**  
+- 📄 **Paper:** https://www.mdpi.com/2079-9292/9/9/1499  
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/uav_vanet_1.jpg" width="80%" />
+      <br>
+      <em>UAV-assisted VANET architecture for urban traffic congestion control.</em>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+
 ## Academic Links
 - GitHub: https://github.com/foysalahmed-research  
 - Google Scholar: *(add link)*  
