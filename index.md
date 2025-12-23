@@ -260,18 +260,30 @@ This paper presents a spatiotemporal deep learning framework for detecting newly
 By jointly modeling spatial structure and temporal growth dynamics, the proposed method enables accurate and robust organ-level analysis during plant development.
 
 **Resources**  
-- 📄 **Paper:** https://www.sciencedirect.com/  
-- 💻 **Code:** https://github.com/  
+- 📄 **Paper:** [https://www.sciencedirect.com](https://doi.org/10.1016/j.plaphe.2025.100002)/  
+- 💻 **Code:** [https://github.com/  ](https://github.com/foysalahmed10/3D-New-Organ-Detection-in-Plant-Growth-from-Spatiotemporal-Point-Clouds)
 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/3dnod_1.jpg" width="85%" />
+      <img src="assets/3D-NOD1.gif" width="85%" />
     </td>
   </tr>
 </table>
-
-
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/3D-NOD2.jpg" width="85%" />
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/3D-NOD3.jpg" width="85%" />
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -320,17 +332,23 @@ Dawei Li†, **Foysal Ahmed**†, N. Wu, and A. I. Sethi<br>
 This work proposes a YOLO-based detection framework for identifying jute diseases and pests from field images, enabling practical and efficient disease monitoring.
 
 **Resources**  
-- 📄 **Paper:** https://www.mdpi.com/  
+- 📄 **Paper:** [https://www.mdpi.com/  ](https://doi.org/10.3390/plants11070937)
 - 💻 **Code:** https://github.com/foysalahmed10/YOLO-JD  
 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/yolojd_1.jpg" width="75%" />
+      <img src="assets/Jute展示图1.jpg" width="75%" />
     </td>
   </tr>
 </table>
-
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/Jute展示图2.jpg" width="85%" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### UAV-Assisted Hybrid Scheme for Urban Road Safety Based on VANETs
