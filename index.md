@@ -320,6 +320,58 @@ The method integrates attention-guided feature distillation and a feature-level 
   </tr>
 </table>
 
+---
+
+
+### YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection
+
+Dawei Li†, **Foysal Ahmed**†, N. Wu, and A. I. Sethi<br>
+<strong>Plants</strong>, 2025.<br>
+† Contributed equally.
+
+**Brief Description:**  
+This work proposes a YOLO-based detection framework for identifying jute diseases and pests from field images, enabling practical and efficient disease monitoring in real agricultural environments.
+
+**Resources**  
+- 📄 **Paper:** https://doi.org/10.3390/plants11070937  
+- 💻 **Code:** https://github.com/foysalahmed10/YOLO-JD  
+
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/Jute_1.jpg" width="95%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/Jute_2.jpg" width="95%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### UAV-Assisted Hybrid Scheme for Urban Road Safety Based on VANETs
+
+Sayed Jobaer, Yihong Zhang*, Muhammad Ather Iqbal Hussain, **Foysal Ahmed**<br>
+<strong>Electronics</strong>, 2020.<br>
+*Corresponding author.*
+
+**Brief Description:**  
+This paper proposes a UAV-assisted hybrid routing framework for urban vehicular ad hoc networks (VANETs) to improve road safety and congestion control. By integrating unmanned aerial vehicles (UAVs) with roadside units and vehicular communication, the proposed scheme enhances packet delivery ratio, reduces end-to-end delay, and improves energy efficiency under realistic urban traffic conditions.
+
+**Resources**  
+- 📄 **Paper:** https://www.mdpi.com/2079-9292/9/9/1499  
+- 💻 **Code:** *(to be released)*  
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/uav_vanet_1.png" width="80%" />
+      <br>
+      <em>UAV-assisted VANET architecture for urban traffic congestion control.</em>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
