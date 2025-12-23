@@ -242,47 +242,7 @@ phenotyping tasks.
 - **Annotations:**  
   None 
 
----
 
-## Tasks and Results <br>
-
-
-
-### Health assessment by classification
-
-<p align="center">
-  <img src="figures/health_classification.jpg" width="95%">
-</p>
-
-### Organ Semantic Segmentation 
-
-<p align="center">
-  <img src="figures/semantic.jpg" width="95%">
-</p>
-
-### Organ Instance Segmentation 
-
-<p align="center">
-  <img src="figures/instance.jpg" width="95%">
-</p>
-
-### New Organ Detection
-
-<p align="center">
-  <img src="figures/new_organ_detection.jpg" width="95%">
-</p>
-
-### Organ tracking 
-
-<p align="center">
-  <img src="figures/temporal.jpg" width="95%">
-</p>
-
-### Generating natural and vivid 3D plants
-
-<p align="center">
-  <img src="figures/GAN.jpg" width="95%">
-</p>
 ---
 
 ## Publications (Selected)
