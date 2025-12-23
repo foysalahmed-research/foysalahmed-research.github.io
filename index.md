@@ -57,6 +57,10 @@ I received my **Bachelor’s degree in Software Engineering** from **Daffodil In
 
 ### 🌶️ Pepper-4D — 4D Plant Point Cloud Dataset
 
+<p align="center">
+  <img src="assets/graphical_abstract_pepper_4d.jpg" width="95%">
+</p>
+
 ## Introduction<br>
 
 Three-dimensional (3D) plant phenotyping plays a crucial role in analyzing
@@ -186,7 +190,7 @@ representative publicly available 3D crop datasets.
 ## Dataset Acquisition and Reconstruction<br>
 
 <p align="center">
-  <img src="figures/data_acquisition_pipeline.jpg" width="95%">
+  <img src="assets/data_acquisition_pipeline.jpg" width="95%">
 </p>
 
 Pepper-4D was constructed through a multi-stage pipeline including image
@@ -205,7 +209,7 @@ phenotyping tasks.
 ### Subset 1 — Full Lifecycle<br>
 
 <p align="center">
-  <img src="figures/subset1_lifecycle.jpg" width="95%">
+  <img src="assets/subset1_lifecycle.jpg" width="95%">
 </p>
 
 - **Plants:** 11  
@@ -221,7 +225,7 @@ phenotyping tasks.
 ### Subset 2 — Geotropism Tests <br>
 
 <p align="center">
-  <img src="figures/subset2_new_organs.jpg" width="95%">
+  <img src="assets/subset2_new_organs.jpg" width="95%">
 </p>
 
 - **Plants:** 8  
