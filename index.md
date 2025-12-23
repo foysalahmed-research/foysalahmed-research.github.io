@@ -349,6 +349,7 @@ This work proposes a YOLO-based detection framework for identifying jute disease
     </td>
   </tr>
 </table>
+
 ---
 
 ### UAV-Assisted Hybrid Scheme for Urban Road Safety Based on VANETs
@@ -373,8 +374,6 @@ This paper proposes a UAV-assisted hybrid routing framework for urban vehicular 
     </td>
   </tr>
 </table>
-
-
 ---
 
 
