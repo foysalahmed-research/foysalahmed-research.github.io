@@ -7,11 +7,6 @@ layout: default
 **PhD Student**  
 **Donghua University (211, Double First-Class) · Shanghai, China**
 
-📧 **Email:** [foysal.9@outlook.com](mailto:foysal.9@outlook.com)  
-🌐 **GitHub:** [github.com/foysalahmed10](https://github.com/foysalahmed10)  
-📄 **CV:** [Download CV](cv.pdf)  
-🎓 **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=1HUchzEAAAAJ&hl=en)
-
 ---
 
 ## Academic History and Education Background
@@ -386,11 +381,11 @@ This paper proposes a UAV-assisted hybrid routing framework for urban vehicular 
 
 ---
 
-
 ## Academic Links
-- GitHub: https://github.com/foysalahmed-research  
-- Google Scholar: *(add link)*  
-- Email: foysal.9[AT]outlook.com  
+📧 **Email:** [foysal.9@outlook.com](mailto:foysal.9@outlook.com)  
+🌐 **GitHub:** [github.com/foysalahmed10](https://github.com/foysalahmed10)  
+📄 **CV:** [Download CV](cv.pdf)  
+🎓 **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=1HUchzEAAAAJ&hl=en)
 
 ---
 
