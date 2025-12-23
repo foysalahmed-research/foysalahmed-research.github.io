@@ -271,6 +271,44 @@ By jointly modeling spatial structure and temporal growth dynamics, the proposed
   </tr>
 </table>
 
+
+
+
+---
+
+### A Novel Knowledge Distillation Framework for Enhancing Small Object Detection in Blurry Environments with UAV-Assisted Images
+
+Sayed Jobaer, Xue-song Tang, Yihong Zhang, Gaojian Li, **Foysal Ahmed**  
+<strong>Complex & Intelligent Systems</strong>, 2025.  
+
+**Brief Description:**  
+This paper proposes a novel knowledge distillation framework to enhance small object detection performance in blurry UAV-assisted images.  
+The method integrates attention-guided feature distillation and a feature-level deblurring subnet within a self-supervised learning paradigm, enabling robust detection without relying on explicit image deblurring. Experimental results on VisDrone and a newly developed UAV small object detection dataset demonstrate consistent performance improvements over state-of-the-art methods.
+
+**Resources**  
+- 📄 **Paper:** https://doi.org/10.1007/s40747-024-01676-w  
+- 💻 **Code:** *(to be released)*  
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/uav_kd_framework_1.jpg" width="85%" />
+      <br>
+      <em>Overview of the proposed knowledge distillation and feature-level deblurring framework.</em>
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/uav_kd_framework_2.jpg" width="85%" />
+      <br>
+      <em>Overview of the proposed knowledge distillation and feature-level deblurring framework.</em>
+    </td>
+  </tr>
+</table
+
+
 ---
 
 ### YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection
@@ -305,7 +343,8 @@ Sayed Jobaer, Yihong Zhang*, Muhammad Ather Iqbal Hussain, **Foysal Ahmed**
 This paper proposes a UAV-assisted hybrid routing framework for urban vehicular ad hoc networks (VANETs) to improve road safety and congestion control. By integrating unmanned aerial vehicles (UAVs) with roadside units and vehicular communication, the proposed scheme enhances packet delivery ratio, reduces end-to-end delay, and improves energy efficiency under realistic urban traffic conditions.
 
 **Resources**  
-- 📄 **Paper:** https://www.mdpi.com/2079-9292/9/9/1499  
+- 📄 **Paper:** https://www.mdpi.com/2079-9292/9/9/1499
+- 💻 **Code:** *(to be released)* 
 
 <table border="0">
   <tr>
