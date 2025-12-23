@@ -338,14 +338,26 @@ This work proposes a YOLO-based detection framework for identifying jute disease
 
 <table border="0">
   <tr>
-    <td align="center" width="50%">
-      <img src="assets/Jute_1.jpg" width="95%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="assets/Jute_2.jpg" width="95%" />
+    <td align="center">
+      <img src="assets/Jute_1.jpg" width="85%" />
+      <br>
+      <em>The overall architecture of YOLO-JD.</em>
     </td>
   </tr>
 </table>
+
+<br>
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/Jute_2.jpg" width="85%" />
+      <br>
+      <em>YOLO-JD predictions on complex background images.</em>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
