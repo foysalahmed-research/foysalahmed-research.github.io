@@ -81,7 +81,6 @@ temporal growth patterns, and plant health status.
 Pepper-4D is designed as a benchmark resource for both discriminative and
 generative learning methods on 3D plant point clouds.
 
----
 
 ## Dataset Overview<br>
 
@@ -189,8 +188,6 @@ representative publicly available 3D crop datasets.
 
 
 
----
-
 ## Dataset Acquisition and Reconstruction<br>
 
 <p align="center">
@@ -203,7 +200,6 @@ generation. Multi-view images were captured for each plant at each time step,
 followed by 3D reconstruction and post-processing to obtain temporally aligned
 point clouds.
 
----
 
 ## Dataset Subsets<br>
 
@@ -224,7 +220,6 @@ phenotyping tasks.
 - **Annotations:**  
   Semantic, instance, temporal, and health labels.
 
----
 
 ### Subset 2 — Geotropism Tests <br>
 
@@ -239,7 +234,6 @@ phenotyping tasks.
 - **Annotations:**  
   New organ detection labels.
 
----
 
 ### Subset 3 — Early–Mid Growth<br>
 
