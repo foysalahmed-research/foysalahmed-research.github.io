@@ -292,7 +292,7 @@ The method integrates attention-guided feature distillation and a feature-level 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/uav_kd_framework_1.jpg" width="85%" />
+      <img src="assets/uav_kd_framework_1.png" width="85%" />
       <br>
       <em>Overview of the proposed knowledge distillation and feature-level deblurring framework.</em>
     </td>
@@ -301,7 +301,7 @@ The method integrates attention-guided feature distillation and a feature-level 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/uav_kd_framework_2.jpg" width="85%" />
+      <img src="assets/uav_kd_framework_2.png" width="85%" />
       <br>
       <em>Overview of the proposed knowledge distillation and feature-level deblurring framework.</em>
     </td>
@@ -349,7 +349,7 @@ This paper proposes a UAV-assisted hybrid routing framework for urban vehicular 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/uav_vanet_1.jpg" width="80%" />
+      <img src="assets/uav_vanet_1.png" width="80%" />
       <br>
       <em>UAV-assisted VANET architecture for urban traffic congestion control.</em>
     </td>
