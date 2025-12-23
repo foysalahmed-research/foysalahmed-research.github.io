@@ -318,7 +318,7 @@ The method integrates attention-guided feature distillation and a feature-level 
       <em>Overview of the proposed knowledge distillation and feature-level deblurring framework.</em>
     </td>
   </tr>
-</table
+</table>
 
 
 ---
