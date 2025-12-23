@@ -56,28 +56,233 @@ I received my **Bachelor’s degree in Software Engineering** from **Daffodil In
 ## Upcoming & Ongoing Projects
 
 ### 🌶️ Pepper-4D — 4D Plant Point Cloud Dataset
-**Pepper-4D** is a large-scale **4D (3D + time) point cloud dataset** designed for temporal plant phenotyping and structural growth analysis. <br>
-<strong>Status:</strong> Under Review  <br>
 
-It supports research on plant growth modeling, temporal segmentation, and 3D/4D generative modeling.
+## Introduction<br>
 
-**Links**  
-- 📂 **Dataset & Code:** https://github.com/foysalahmed10/Pepper-4D  
-- 📄 **Paper:** *(to be added)*  
+Three-dimensional (3D) plant phenotyping plays a crucial role in analyzing
+plant structure, organ-level traits, and growth dynamics.
+While recent advances in 2D and 3D vision have accelerated research in plant
+phenotyping, publicly available **spatiotemporal 3D datasets for pepper plants**
+remain extremely limited.
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="assets/graphical_abstract_pepper_4d.jpg" width="85%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/pepper4d_2.jpg" width="85%" />
-    </td>
-  </tr>
+Pepper-4D addresses this gap by providing a **comprehensive 4D (3D + time) point
+cloud dataset** capturing the complete growth and developmental process of
+pepper plants under controlled indoor conditions.
+The dataset enables detailed analysis of plant structure, organ dynamics,
+temporal growth patterns, and plant health status.
+Pepper-4D is designed as a benchmark resource for both discriminative and
+generative learning methods on 3D plant point clouds.
+
+---
+
+## Dataset Overview<br>
+
+- **Species:** Pepper (*Capsicum annuum*)
+- **Total plants:** 29
+- **Total point clouds:** 916
+- **Total points:** 322.72 million
+- **Total dataset size:** ~20 GB
+- **Data modality:** 3D point clouds (XYZ)
+- **Temporal resolution:** Bi-daily scans
+- **Environment:** Indoor controlled conditions
+
+
+## Comparison with Existing 3D Crop Datasets<br>
+
+The following table provides a high-level comparison between Pepper-4D and
+representative publicly available 3D crop datasets.
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Dataset</th>
+      <th align="center">Species</th>
+      <th align="center"># Point Clouds</th>
+      <th align="center"># Temporal Coverage (4D)</th>
+      <th align="center">Acquisition Modality</th>
+      <th align="center">Color</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Conn et al. (2017)</td>
+      <td align="center">Tomato, Tobacco, Sorghum</td>
+      <td align="center">558</td>
+      <td align="center">Yes</td>
+      <td align="center">Laser</td>
+      <td align="center">No</td>
+    </tr>
+    <tr>
+      <td align="center">ROSE-X (2020)</td>
+      <td align="center">Rose</td>
+      <td align="center">11</td>
+      <td align="center">No</td>
+      <td align="center">X-ray CT</td>
+      <td align="center">No</td>
+    </tr>
+    <tr>
+      <td align="center">Pheno4D (2021)</td>
+      <td align="center">Maize, Tomato</td>
+      <td align="center">126</td>
+      <td align="center">Yes</td>
+      <td align="center">Laser</td>
+      <td align="center">No</td>
+    </tr>
+    <tr>
+      <td align="center">Soybean-MVS (2023)</td>
+      <td align="center">Soybean</td>
+      <td align="center">102</td>
+      <td align="center">Yes</td>
+      <td align="center">MVS</td>
+      <td align="center">Yes</td>
+    </tr>
+    <tr>
+      <td align="center">PLANesT-3D (2024)</td>
+      <td align="center">Pepper, Rose, Ribes</td>
+      <td align="center">34</td>
+      <td align="center">No</td>
+      <td align="center">SfM-MVS</td>
+      <td align="center">Yes</td>
+    </tr>
+    <tr>
+      <td align="center">BonnBeetClouds3D (2024)</td>
+      <td align="center">Sugar Beet</td>
+      <td align="center">3000</td>
+      <td align="center">No</td>
+      <td align="center">UAV Photogrammetry</td>
+      <td align="center">Yes</td>
+    </tr>
+    <tr>
+      <td align="center">Crops3D (2024)</td>
+      <td align="center">Multiple species</td>
+      <td align="center">1230</td>
+      <td align="center">Partial</td>
+      <td align="center">SfM-MVS, TLS</td>
+      <td align="center">Yes</td>
+    </tr>
+    <tr>
+      <td align="center">MaizeField3D (2025)</td>
+      <td align="center">Maize</td>
+      <td align="center">1045</td>
+      <td align="center">No</td>
+      <td align="center">TLS + Procedural</td>
+      <td align="center">Yes</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Pepper-4D (2026)</b></td>
+      <td align="center"><b>Pepper</b></td>
+      <td align="center"><b>916</b></td>
+      <td align="center"><b>Yes</b></td>
+      <td align="center"><b>SfM + NeRF</b></td>
+      <td align="center"><b>Yes</b></td>
+    </tr>
+  </tbody>
 </table>
 
+
+
+---
+
+## Dataset Acquisition and Reconstruction<br>
+
+<p align="center">
+  <img src="figures/data_acquisition_pipeline.jpg" width="95%">
+</p>
+
+Pepper-4D was constructed through a multi-stage pipeline including image
+acquisition, preprocessing, 3D reconstruction, and plant-only point cloud
+generation. Multi-view images were captured for each plant at each time step,
+followed by 3D reconstruction and post-processing to obtain temporally aligned
+point clouds.
+
+---
+
+## Dataset Subsets<br>
+
+Pepper-4D consists of three subsets capturing different growth scenarios and
+phenotyping tasks.
+
+### Subset 1 — Full Lifecycle<br>
+
+<p align="center">
+  <img src="figures/subset1_lifecycle.jpg" width="95%">
+</p>
+
+- **Plants:** 11  
+- **Point clouds:** 460  
+- **Description:**  
+  Long-term monitoring from early vegetative growth to flowering,
+  fruiting, and senescence.
+- **Annotations:**  
+  Semantic, instance, temporal, and health labels.
+
+---
+
+### Subset 2 — Geotropism Tests <br>
+
+<p align="center">
+  <img src="figures/subset2_new_organs.jpg" width="95%">
+</p>
+
+- **Plants:** 8  
+- **Point clouds:** 238  
+- **Description:**  
+  Sequences focusing on **new organ detection and Geotropism tests**.
+- **Annotations:**  
+  New organ detection labels.
+
+---
+
+### Subset 3 — Early–Mid Growth<br>
+
+- **Plants:** 10  
+- **Point clouds:** 218  
+- **Description:**  
+  Early and mid growth stages with rapid structural changes.
+- **Annotations:**  
+  None 
+
+---
+
+## Tasks and Results <br>
+
+
+
+### Health assessment by classification
+
+<p align="center">
+  <img src="figures/health_classification.jpg" width="95%">
+</p>
+
+### Organ Semantic Segmentation 
+
+<p align="center">
+  <img src="figures/semantic.jpg" width="95%">
+</p>
+
+### Organ Instance Segmentation 
+
+<p align="center">
+  <img src="figures/instance.jpg" width="95%">
+</p>
+
+### New Organ Detection
+
+<p align="center">
+  <img src="figures/new_organ_detection.jpg" width="95%">
+</p>
+
+### Organ tracking 
+
+<p align="center">
+  <img src="figures/temporal.jpg" width="95%">
+</p>
+
+### Generating natural and vivid 3D plants
+
+<p align="center">
+  <img src="figures/GAN.jpg" width="95%">
+</p>
 ---
 
 ## Publications (Selected)
