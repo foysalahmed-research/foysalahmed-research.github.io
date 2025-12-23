@@ -61,6 +61,10 @@ I received my **Bachelor’s degree in Software Engineering** from **Daffodil In
   <img src="assets/graphical_abstract_pepper_4d.jpg" width="95%">
 </p>
 
+**Resources**  
+- 📄 **Paper:** to be published
+- 💻 **Code:** [https://github.com/  ](https://github.com/foysalahmed10/Pepper-4D)
+
 ## Introduction<br>
 
 Three-dimensional (3D) plant phenotyping plays a crucial role in analyzing
