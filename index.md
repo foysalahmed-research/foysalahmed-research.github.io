@@ -65,7 +65,7 @@ I received my **Bachelor’s degree in Software Engineering** from **Daffodil In
 - 📄 **Paper:** to be published
 - 💻 **Code:** [https://github.com/  ](https://github.com/foysalahmed10/Pepper-4D)
 
-## Introduction<br>
+**Introduction** <br>
 
 Three-dimensional (3D) plant phenotyping plays a crucial role in analyzing
 plant structure, organ-level traits, and growth dynamics.
@@ -82,7 +82,7 @@ Pepper-4D is designed as a benchmark resource for both discriminative and
 generative learning methods on 3D plant point clouds.
 
 
-## Dataset Overview<br>
+**Dataset Overview**  <br>
 
 - **Species:** Pepper (*Capsicum annuum*)
 - **Total plants:** 29
@@ -94,7 +94,7 @@ generative learning methods on 3D plant point clouds.
 - **Environment:** Indoor controlled conditions
 
 
-## Comparison with Existing 3D Crop Datasets<br>
+**Comparison with Existing 3D Crop Datasets**  <br>
 
 The following table provides a high-level comparison between Pepper-4D and
 representative publicly available 3D crop datasets.
@@ -188,7 +188,7 @@ representative publicly available 3D crop datasets.
 
 
 
-## Dataset Acquisition and Reconstruction<br>
+**Dataset Acquisition and Reconstruction**  <br>
 
 <p align="center">
   <img src="assets/data_acquisition_pipeline.jpg" width="95%">
@@ -201,12 +201,12 @@ followed by 3D reconstruction and post-processing to obtain temporally aligned
 point clouds.
 
 
-## Dataset Subsets<br>
+**Dataset Subsets**  <br>
 
 Pepper-4D consists of three subsets capturing different growth scenarios and
 phenotyping tasks.
 
-### Subset 1 — Full Lifecycle<br>
+**Subset 1 — Full Lifecycle**  <br>
 
 <p align="center">
   <img src="assets/subset1_lifecycle.jpg" width="95%">
@@ -221,7 +221,7 @@ phenotyping tasks.
   Semantic, instance, temporal, and health labels.
 
 
-### Subset 2 — Geotropism Tests <br>
+**Subset 2 — Geotropism Tests**   <br>
 
 <p align="center">
   <img src="assets/subset2_new_organs.jpg" width="95%">
@@ -235,7 +235,7 @@ phenotyping tasks.
   New organ detection labels.
 
 
-### Subset 3 — Early–Mid Growth<br>
+**Subset 3 — Early–Mid Growth**  <br>
 
 - **Plants:** 10  
 - **Point clouds:** 218  
