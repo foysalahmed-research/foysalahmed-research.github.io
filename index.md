@@ -2,28 +2,25 @@
 layout: default
 ---
 
+---
+layout: default
+title: "Foysal Ahmed's Homepage"
+description: "Ph.D. in Information and Communication Intelligent Systems"
+---
+
 <div class="hero">
-  <!-- Profile Picture -->
   <div class="hero-avatar">
     <img src="assets/profile.jpg" alt="Foysal Ahmed">
   </div>
-
-  <!-- Main Heading -->
   <h1 class="hero-heading">
     Welcome to Foysal Ahmed's Homepage!
   </h1>
-
-  <!-- Subtitle -->
   <p class="hero-subtitle">
-    Ph.D. in Information and Communication Intelligent Systems
+    Ph.D. Student in Information and Communication Intelligent Systems
   </p>
-
-  <!-- Affiliation -->
   <p class="hero-affiliation">
     Donghua University (211, Double First-Class), Shanghai, China
   </p>
-
-  <!-- Links -->
   <div class="hero-links">
     <a href="mailto:foysal.9@outlook.com">Email</a> ·
     <a href="https://github.com/foysalahmed10" target="_blank">GitHub</a> ·
@@ -33,7 +30,6 @@ layout: default
     </a>
   </div>
 </div>
-
 
 
 ## Foysal Ahmed
@@ -472,87 +468,4 @@ This paper proposes a UAV-assisted hybrid routing framework for urban vehicular 
 
 
 
-<style>
-/* ===== Hero Section Styling ===== */
-.hero {
-  text-align: center;
-  padding: 4rem 1rem 3rem;
-  background: linear-gradient(135deg, #006d6f, #008b8b);
-  color: #ffffff;
-  margin-bottom: 2.5rem;
-  max-width: 100%;
-  position: relative;
-}
 
-.hero-avatar {
-  margin-bottom: 1.5rem;
-}
-
-.hero-avatar img {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  border: 3px solid #ffffff;
-  object-fit: cover;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-}
-
-.hero-heading {
-  font-size: 2.8rem;
-  font-weight: 700;
-  margin: 1.2rem 0 0.5rem;
-}
-
-.hero-subtitle {
-  font-size: 1.2rem;
-  font-weight: 500;
-  opacity: 0.9;
-  margin-bottom: 0.8rem;
-}
-
-.hero-affiliation {
-  font-size: 1.1rem;
-  opacity: 0.8;
-  margin-bottom: 1.2rem;
-}
-
-.hero-links {
-  font-size: 1.05rem;
-  margin-top: 1rem;
-}
-
-.hero-links a {
-  color: #ffffff;
-  font-weight: 500;
-  text-decoration: none;
-  margin: 0 0.5rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.6);
-}
-
-.hero-links a:hover {
-  border-bottom: 1px solid #ffffff;
-}
-
-/* Responsive for smaller screens */
-@media (max-width: 600px) {
-  .hero-heading {
-    font-size: 2.3rem;
-  }
-
-  .hero-avatar img {
-    width: 100px;
-    height: 100px;
-  }
-
-  .hero-subtitle {
-    font-size: 1.05rem;
-  }
-
-  .hero-affiliation {
-    font-size: 1rem;
-  }
-}
-</style>
-
-}
-</style>
