@@ -3,32 +3,35 @@ layout: default
 ---
 
 <div class="hero">
-
+  <!-- Profile Picture -->
   <div class="hero-avatar">
     <img src="assets/profile.jpg" alt="Foysal Ahmed">
   </div>
 
+  <!-- Main Heading -->
   <h1 class="hero-heading">
     Welcome to Foysal Ahmed's Homepage!
   </h1>
 
+  <!-- Subtitle -->
   <p class="hero-subtitle">
     Ph.D. in Information and Communication Intelligent Systems
   </p>
 
+  <!-- Affiliation -->
   <p class="hero-affiliation">
     Donghua University (211, Double First-Class), Shanghai, China
   </p>
 
-  <p class="hero-links">
+  <!-- Links -->
+  <div class="hero-links">
     <a href="mailto:foysal.9@outlook.com">Email</a> ·
     <a href="https://github.com/foysalahmed10" target="_blank">GitHub</a> ·
     <a href="/assets/cv.pdf" target="_blank">CV</a> ·
     <a href="https://scholar.google.com/citations?user=1HUchzEAAAAJ&hl=en" target="_blank">
       Google Scholar
     </a>
-  </p>
-
+  </div>
 </div>
 
 
@@ -467,76 +470,89 @@ This paper proposes a UAV-assisted hybrid routing framework for urban vehicular 
 </style>
 
 
-<style>
-/* ===== Academic Hero Section ===== */
 
+
+<style>
+/* ===== Hero Section Styling ===== */
 .hero {
   text-align: center;
-  padding: 4.5rem 1.5rem 3.5rem;
-  background: linear-gradient(135deg, #005f7f, #00926a);
+  padding: 4rem 1rem 3rem;
+  background: linear-gradient(135deg, #006d6f, #008b8b);
   color: #ffffff;
-  margin-bottom: 3rem;
+  margin-bottom: 2.5rem;
+  max-width: 100%;
+  position: relative;
 }
 
-/* Avatar */
 .hero-avatar {
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.5rem;
 }
 
 .hero-avatar img {
-  width: 140px;
-  height: 140px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
-  border: 4px solid rgba(255,255,255,0.9);
+  border: 3px solid #ffffff;
   object-fit: cover;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
 
-/* Heading */
 .hero-heading {
-  font-size: 2.7rem;
+  font-size: 2.8rem;
   font-weight: 700;
-  margin: 1rem 0 0.6rem;
+  margin: 1.2rem 0 0.5rem;
 }
 
-/* Subtitle */
 .hero-subtitle {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-weight: 500;
-  opacity: 0.95;
-  margin-bottom: 0.4rem;
-}
-
-/* Affiliation */
-.hero-affiliation {
-  font-size: 1.05rem;
   opacity: 0.9;
-  margin-bottom: 1.4rem;
+  margin-bottom: 0.8rem;
 }
 
-/* Links */
+.hero-affiliation {
+  font-size: 1.1rem;
+  opacity: 0.8;
+  margin-bottom: 1.2rem;
+}
+
 .hero-links {
   font-size: 1.05rem;
+  margin-top: 1rem;
 }
 
 .hero-links a {
   color: #ffffff;
-  text-decoration: none;
   font-weight: 500;
-  border-bottom: 1px solid rgba(255,255,255,0.45);
+  text-decoration: none;
+  margin: 0 0.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.6);
 }
 
 .hero-links a:hover {
   border-bottom: 1px solid #ffffff;
 }
 
-/* Responsive */
+/* Responsive for smaller screens */
 @media (max-width: 600px) {
   .hero-heading {
-    font-size: 2.1rem;
+    font-size: 2.3rem;
   }
+
   .hero-avatar img {
-    width: 110px;
-    height: 110px;
+    width: 100px;
+    height: 100px;
   }
+
+  .hero-subtitle {
+    font-size: 1.05rem;
+  }
+
+  .hero-affiliation {
+    font-size: 1rem;
+  }
+}
+</style>
+
 }
 </style>
