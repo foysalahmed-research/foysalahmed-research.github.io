@@ -4,28 +4,30 @@ layout: default
 
 <div class="hero">
 
-  <h1 class="hero-name">Foysal Ahmed</h1>
+  <div class="hero-avatar">
+    <img src="assets/profile.jpg" alt="Foysal Ahmed">
+  </div>
 
-  <p class="hero-title">
-    Ph.D. Student · Computer Vision · 3D Point Clouds
+  <h1 class="hero-heading">
+    Welcome to Foysal Ahmed's Homepage!
+  </h1>
+
+  <p class="hero-subtitle">
+    Ph.D. in Information and Communication Intelligent Systems
   </p>
 
   <p class="hero-affiliation">
-    Information and Communication Intelligent Systems<br>
     Donghua University (211, Double First-Class), Shanghai, China
   </p>
 
-  <div class="hero-links">
-    <a href="mailto:foysal.9@outlook.com">Email</a>
-    <span>•</span>
-    <a href="https://github.com/foysalahmed10" target="_blank">GitHub</a>
-    <span>•</span>
-    <a href="/assets/cv.pdf" target="_blank">CV</a>
-    <span>•</span>
+  <p class="hero-links">
+    <a href="mailto:foysal.9@outlook.com">Email</a> ·
+    <a href="https://github.com/foysalahmed10" target="_blank">GitHub</a> ·
+    <a href="/assets/cv.pdf" target="_blank">CV</a> ·
     <a href="https://scholar.google.com/citations?user=1HUchzEAAAAJ&hl=en" target="_blank">
       Google Scholar
     </a>
-  </div>
+  </p>
 
 </div>
 
@@ -466,46 +468,61 @@ This paper proposes a UAV-assisted hybrid routing framework for urban vehicular 
 
 
 <style>
-/* ===== Hero Section ===== */
+/* ===== Academic Hero Section ===== */
 
 .hero {
   text-align: center;
-  padding: 3.5rem 1rem 2.5rem;
-  background: linear-gradient(135deg, #006d6f, #008b8b);
+  padding: 4.5rem 1.5rem 3.5rem;
+  background: linear-gradient(135deg, #005f7f, #00926a);
   color: #ffffff;
-  margin-bottom: 2.5rem;
+  margin-bottom: 3rem;
 }
 
-.hero-name {
-  font-size: 2.6rem;
+/* Avatar */
+.hero-avatar {
+  margin-bottom: 1.2rem;
+}
+
+.hero-avatar img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  border: 4px solid rgba(255,255,255,0.9);
+  object-fit: cover;
+}
+
+/* Heading */
+.hero-heading {
+  font-size: 2.7rem;
   font-weight: 700;
-  margin-bottom: 0.5rem;
+  margin: 1rem 0 0.6rem;
 }
 
-.hero-title {
-  font-size: 1.2rem;
+/* Subtitle */
+.hero-subtitle {
+  font-size: 1.25rem;
   font-weight: 500;
   opacity: 0.95;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.4rem;
 }
 
+/* Affiliation */
 .hero-affiliation {
-  font-size: 1rem;
+  font-size: 1.05rem;
   opacity: 0.9;
-  margin-bottom: 1.2rem;
-  line-height: 1.5;
+  margin-bottom: 1.4rem;
 }
 
+/* Links */
 .hero-links {
-  font-size: 1rem;
+  font-size: 1.05rem;
 }
 
 .hero-links a {
   color: #ffffff;
-  font-weight: 500;
   text-decoration: none;
-  margin: 0 0.3rem;
-  border-bottom: 1px solid rgba(255,255,255,0.4);
+  font-weight: 500;
+  border-bottom: 1px solid rgba(255,255,255,0.45);
 }
 
 .hero-links a:hover {
@@ -514,11 +531,12 @@ This paper proposes a UAV-assisted hybrid routing framework for urban vehicular 
 
 /* Responsive */
 @media (max-width: 600px) {
-  .hero-name {
+  .hero-heading {
     font-size: 2.1rem;
   }
-  .hero-title {
-    font-size: 1.05rem;
+  .hero-avatar img {
+    width: 110px;
+    height: 110px;
   }
 }
 </style>
