@@ -2,6 +2,18 @@
 layout: default
 ---
 
+<!-- Add Font Awesome link in the <head> section of your HTML -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+<!-- Updated links with icons -->
+<a href="mailto:foysal.9@outlook.com"><i class="fas fa-envelope"></i> Email</a> ·
+<a href="https://github.com/foysalahmed10" target="_blank"><i class="fab fa-github"></i> GitHub</a> ·
+<a href="/assets/cv.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a> ·
+<a href="https://scholar.google.com/citations?user=1HUchzEAAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+
+---
+
+
 ## Academic History and Education Background
 
 I received my **Bachelor’s degree in Software Engineering** from **Daffodil International University**, Bangladesh, in **2018**. In **September 2019**, I was awarded the **Chinese Government Scholarship** and moved to China to pursue graduate studies. I completed my **Master’s degree in Information and Communication Engineering** at **Donghua University**, Shanghai, China, in **2022**. Following my master’s studies, I was awarded the **Shanghai Government Scholarship** to pursue my **PhD** at **Donghua University**. I am currently a PhD student in the **Information and Communication Intelligent Systems** program, where my research focuses on data-driven methods for **3D plant phenotyping, 3D point cloud processing, generative modeling and computer vision**.
