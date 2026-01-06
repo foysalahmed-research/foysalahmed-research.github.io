@@ -2,14 +2,28 @@
 layout: default
 ---
 
-<!-- Add Font Awesome link in the <head> section of your HTML -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<style>
+  .social-links {
+    text-align: center;
+  }
 
-<!-- Updated links with icons -->
-<a href="mailto:foysal.9@outlook.com"><i class="fas fa-envelope"></i> Email</a> ·
-<a href="https://github.com/foysalahmed10" target="_blank"><i class="fab fa-github"></i> GitHub</a> ·
-<a href="/assets/cv.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a> ·
-<a href="https://scholar.google.com/citations?user=1HUchzEAAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+  .social-links a {
+    margin: 0 15px;  /* Adds space between the links */
+    font-size: 18px; /* Adjust icon and text size */
+  }
+
+  .social-links i {
+    margin-right: 8px; /* Adds space between icon and text */
+  }
+</style>
+
+<!-- Add class to the container -->
+<div class="social-links">
+  <a href="mailto:foysal.9@outlook.com"><i class="fas fa-envelope"></i> Email</a> ·
+  <a href="https://github.com/foysalahmed10" target="_blank"><i class="fab fa-github"></i> GitHub</a> ·
+  <a href="/assets/cv.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a> ·
+  <a href="https://scholar.google.com/citations?user=1HUchzEAAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+</div>
 
 ---
 
