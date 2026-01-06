@@ -1,10 +1,10 @@
-/* ===== Hero Section Styles ===== */
+/* Hero Section Styles */
 .page-header {
   position: relative;
   text-align: center;
   color: white;
-  height: 300px; /* Height of the banner */
-  background-image: url('assets/hero-image.jpg'); /* Path to your background image */
+  height: 300px;  /* Height of the banner */
+  background-image: url('../images/hero-image.jpg'); /* Path to your background image */
   background-size: cover;
   background-position: center;
   margin-bottom: 0; /* Remove any margin after the hero section */
@@ -52,23 +52,4 @@
 
 .page-header .btn:hover {
   background-color: #004545;
-}
-
-/* ===== General Page Styles ===== */
-body {
-  font-family: Arial, sans-serif;
-}
-
-h1, h2 {
-  color: #333;
-}
-
-/* Example of Link Styling */
-a {
-  color: #005f5f;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #003e3e;
 }
