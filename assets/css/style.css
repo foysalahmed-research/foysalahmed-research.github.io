@@ -1,13 +1,16 @@
-/* ===== Hero Section Styles ===== */
+/* Hero Section Styles */
 .page-header {
   position: relative;
   text-align: center;
   color: white;
   height: 350px;  /* Height of the banner */
   background-color: #4CAF50; /* Green background color */
-  background-size: cover;
-  background-position: center;
   margin-bottom: 0; /* Remove any margin after the hero section */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
 }
 
 .hero-overlay {
@@ -23,7 +26,7 @@
 .page-header .container {
   position: relative;
   z-index: 2; /* Ensure content appears above the overlay */
-  padding-top: 100px; /* Adjust padding for vertical alignment */
+  text-align: center;
 }
 
 .page-header h1 {
@@ -71,6 +74,7 @@ h1, h2 {
   color: #333;
 }
 
+/* Example of Link Styling */
 a {
   color: #4CAF50;
   text-decoration: none;
