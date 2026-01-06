@@ -2,6 +2,35 @@
 layout: default
 ---
 
+<div class="hero">
+
+  <h1 class="hero-name">Foysal Ahmed</h1>
+
+  <p class="hero-title">
+    Ph.D. Student · Computer Vision · 3D Point Clouds
+  </p>
+
+  <p class="hero-affiliation">
+    Information and Communication Intelligent Systems<br>
+    Donghua University (211, Double First-Class), Shanghai, China
+  </p>
+
+  <div class="hero-links">
+    <a href="mailto:foysal.9@outlook.com">Email</a>
+    <span>•</span>
+    <a href="https://github.com/foysalahmed10" target="_blank">GitHub</a>
+    <span>•</span>
+    <a href="/assets/cv.pdf" target="_blank">CV</a>
+    <span>•</span>
+    <a href="https://scholar.google.com/citations?user=1HUchzEAAAAJ&hl=en" target="_blank">
+      Google Scholar
+    </a>
+  </div>
+
+</div>
+
+
+
 ## Foysal Ahmed
 
 **PhD Student**  
@@ -432,5 +461,64 @@ This paper proposes a UAV-assisted hybrid routing framework for urban vehicular 
 #mmvst_globe canvas {
   width: 100% !important;
   max-width: 100% !important;
+}
+</style>
+
+
+<style>
+/* ===== Hero Section ===== */
+
+.hero {
+  text-align: center;
+  padding: 3.5rem 1rem 2.5rem;
+  background: linear-gradient(135deg, #006d6f, #008b8b);
+  color: #ffffff;
+  margin-bottom: 2.5rem;
+}
+
+.hero-name {
+  font-size: 2.6rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.hero-title {
+  font-size: 1.2rem;
+  font-weight: 500;
+  opacity: 0.95;
+  margin-bottom: 0.6rem;
+}
+
+.hero-affiliation {
+  font-size: 1rem;
+  opacity: 0.9;
+  margin-bottom: 1.2rem;
+  line-height: 1.5;
+}
+
+.hero-links {
+  font-size: 1rem;
+}
+
+.hero-links a {
+  color: #ffffff;
+  font-weight: 500;
+  text-decoration: none;
+  margin: 0 0.3rem;
+  border-bottom: 1px solid rgba(255,255,255,0.4);
+}
+
+.hero-links a:hover {
+  border-bottom: 1px solid #ffffff;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .hero-name {
+    font-size: 2.1rem;
+  }
+  .hero-title {
+    font-size: 1.05rem;
+  }
 }
 </style>
