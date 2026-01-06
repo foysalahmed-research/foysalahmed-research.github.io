@@ -14,12 +14,14 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <!-- Hero Section (Top Banner) with Green Background -->
+    <!-- Hero Section (Top Banner) with White Background -->
     <header class="page-header" role="banner">
       <div class="hero-overlay"></div> <!-- Optional overlay for contrast -->
+
       <div class="container">
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
         {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
         {% endif %}
@@ -29,7 +31,6 @@
     <!-- Link Section (Professional Links Below Hero Section) -->
     <section class="links-section">
       <div class="container">
-        <h3>Connect with Me</h3>
         <div class="links">
           <a href="mailto:foysal.9@outlook.com" class="link-item">Email</a>
           <a href="https://github.com/foysalahmed10" target="_blank" class="link-item">GitHub</a>
