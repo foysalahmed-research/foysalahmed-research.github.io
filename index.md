@@ -2,12 +2,6 @@
 layout: default
 ---
 
-## Foysal Ahmed
-
-**PhD Student**  
-**Donghua University (211, Double First-Class) · Shanghai, China** <br>
-
----
 
 ## Academic History and Education Background
 
