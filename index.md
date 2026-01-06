@@ -2,36 +2,6 @@
 layout: default
 ---
 
----
-layout: default
-title: "Foysal Ahmed's Homepage"
-description: "Ph.D. in Information and Communication Intelligent Systems"
----
-
-<div class="hero">
-  <div class="hero-avatar">
-    <img src="assets/profile.jpg" alt="Foysal Ahmed">
-  </div>
-  <h1 class="hero-heading">
-    Welcome to Foysal Ahmed's Homepage!
-  </h1>
-  <p class="hero-subtitle">
-    Ph.D. Student in Information and Communication Intelligent Systems
-  </p>
-  <p class="hero-affiliation">
-    Donghua University (211, Double First-Class), Shanghai, China
-  </p>
-  <div class="hero-links">
-    <a href="mailto:foysal.9@outlook.com">Email</a> ·
-    <a href="https://github.com/foysalahmed10" target="_blank">GitHub</a> ·
-    <a href="/assets/cv.pdf" target="_blank">CV</a> ·
-    <a href="https://scholar.google.com/citations?user=1HUchzEAAAAJ&hl=en" target="_blank">
-      Google Scholar
-    </a>
-  </div>
-</div>
-
-
 ## Foysal Ahmed
 
 **PhD Student**  
