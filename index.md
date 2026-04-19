@@ -252,6 +252,50 @@ phenotyping tasks.
 
 ## Publications (Selected)
 
+### Pepper-4D: spatiotemporal 3D pepper crop dataset for phenotyping
+
+**F. Ahmed†**, D. Li†, B. Zhao, Z. Wang, J. Huang, T. Li, J. Huang, J. Hou, S. Jobaer, and H. Yan* <br>
+<strong>Plants</strong>, 2025.<br>
+† Contributed equally.
+
+**Brief Description:**  
+Pepper-4D, a crop-specific spatiotemporal 3D pepper dataset containing 916 reconstructed point clouds from 29 pepper plants, supporting health assessment, semantic segmentation, instance segmentation, organ tracking, new-organ detection, and 3D plant generation.
+
+**Resources**  
+- 📄 **Paper:** https://doi.org/10.3390/plants15040599/  
+- 💻 **Code:** https://github.com/foysalahmed10/Pepper-4D
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/3D-NOD1.gif" width="85%" />
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/3D-NOD2.jpg" width="85%" />
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/3D-NOD3.jpg" width="85%" />
+    </td>
+  </tr>
+</table>
+
+
+---
+
+
+
+
+
+
+
 ### 3D-NOD: 3D New Organ Detection in Plant Growth by a Spatiotemporal Point Cloud Deep Segmentation Framework
 
 Dawei Li†, **Foysal Ahmed**†, Z. Wang† <br>
