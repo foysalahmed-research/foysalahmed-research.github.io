@@ -60,7 +60,7 @@ I received my **Bachelor’s degree in Software Engineering** from **Daffodil In
 
 ### LiteUAV-Det: A Lightweight Network for Robust Small-Object Detection in Complex Aerial Scenes
 
-Sayed Jobaer†, A. A. M. Muzahid, Muhammad Ather Iqbal Hussain †, **Foysal Ahmed †**, Xiaoshan Bai, Hua Han, Ferdous Sohel <br>
+Sayed Jobaer†, A. A. M. Muzahid*, Muhammad Ather Iqbal Hussain †, **Foysal Ahmed †**, Xiaoshan Bai, Hua Han, Ferdous Sohel* <br>
 <strong>Neurocomputing (Under Review)</strong>, 2026.<br>
 † Contributed equally.
 
