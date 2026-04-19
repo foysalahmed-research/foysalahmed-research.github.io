@@ -268,21 +268,21 @@ Pepper-4D, a crop-specific spatiotemporal 3D pepper dataset containing 916 recon
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/3D-NOD1.gif" width="85%" />
+      <img src="assets/Pepper_4D_Graphical_Abstract.jpg" width="85%" />
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/3D-NOD2.jpg" width="85%" />
+      <img src="assets/Pepper_4D_Fig. 2.jpg" width="85%" />
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/3D-NOD3.jpg" width="85%" />
+      <img src="assets/Subset_1.png" width="85%" />
     </td>
   </tr>
 </table>
@@ -313,21 +313,21 @@ By jointly modeling spatial structure and temporal growth dynamics, the proposed
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/Pepper_4D_Graphical_Abstract.jpg" width="85%" />
+      <img src="assets/3D-NOD1.gif" width="85%" />
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/Pepper_4D_Fig. 2.jpg" width="85%" />
+      <img src="assets/3D-NOD2.jpg" width="85%" />
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/Subset_1.png" width="85%" />
+      <img src="assets/3D-NOD3.jpg" width="85%" />
     </td>
   </tr>
 </table>
