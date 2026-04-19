@@ -26,16 +26,16 @@ I received my **Bachelor’s degree in Software Engineering** from **Daffodil In
 
 ## Honors and Awards
 
-- **Shanghai Government Scholarship** for PhD Study, China  
-  Awarded for doctoral study at Donghua University.
-
 - **Chinese Government Scholarship** for Master’s Study, China  
   Awarded for full-time master’s study at Donghua University.
+
+- **Shanghai Government Scholarship** for PhD Study, China  
+  Awarded for doctoral study at Donghua University.
 
 - **Excellent International Graduate Award**, Donghua University, China, 2022  
   Awarded in recognition of outstanding academic performance and overall excellence during master’s study.
 
-- **Outstanding International Student Award**, Donghua University, China, 2021  
+- **Outstanding International Student Award**, Donghua University, China, 2021 and 2015 
   Awarded for excellent academic performance and active participation in university activities.
 
 - **Certificate of Honor for Outstanding Performance**,  
