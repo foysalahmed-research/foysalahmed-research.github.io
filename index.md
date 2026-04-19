@@ -255,7 +255,7 @@ phenotyping tasks.
 ### Pepper-4D: spatiotemporal 3D pepper crop dataset for phenotyping
 
 **F. Ahmed†**, D. Li†, B. Zhao, Z. Wang, J. Huang, T. Li, J. Huang, J. Hou, S. Jobaer, and H. Yan* <br>
-<strong>Plants</strong>, 2025.<br>
+<strong>Plants</strong>, 2026.<br>
 † Contributed equally.
 
 **Brief Description:**  
