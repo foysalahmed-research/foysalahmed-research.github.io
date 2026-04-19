@@ -262,8 +262,8 @@ phenotyping tasks.
 Pepper-4D, a crop-specific spatiotemporal 3D pepper dataset containing 916 reconstructed point clouds from 29 pepper plants, supporting health assessment, semantic segmentation, instance segmentation, organ tracking, new-organ detection, and 3D plant generation.
 
 **Resources**  
-- 📄 **Paper:** https://doi.org/10.3390/plants15040599/  
-- 💻 **Code:** https://github.com/foysalahmed10/Pepper-4D
+- 📄 **Paper:** [https://doi.org/10.3390/plants15040599/  ](https://www.mdpi.com/2223-7747/15/4/599)
+- 💻 **Code:** [https://github.com/  ](https://github.com/foysalahmed10/Pepper-4D)
 
 <table border="0">
   <tr>
