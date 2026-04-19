@@ -35,7 +35,7 @@ I received my **Bachelor’s degree in Software Engineering** from **Daffodil In
 - **Excellent International Graduate Award**, Donghua University, China, 2022  
   Awarded in recognition of outstanding academic performance and overall excellence during master’s study.
 
-- **Outstanding International Student Award**, Donghua University, China, 2021 and 2015
+- **Outstanding International Student Award**, Donghua University, China, 2021 and 2025
   Awarded for excellent academic performance and active participation in university activities.
 
 - **Certificate of Honor for Outstanding Performance**,  
