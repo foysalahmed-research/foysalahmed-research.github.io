@@ -61,7 +61,7 @@ I received my **Bachelor’s degree in Software Engineering** from **Daffodil In
 ### LiteFPV-SOD: An Ultra-Lightweight Detector for Real-Time Small-Object Detection on Edge-Deployed FPV Drones
 
 Sayed Jobaer†, A. A. M. Muzahid*, Muhammad Ather Iqbal Hussain †, **Foysal Ahmed †**, Xiaoshan Bai, Hua Han, Ferdous Sohel* <br>
-<strong>Expert Systems With Applications(Under Review)</strong>, 2026.<br>
+<strong>Expert Systems With Applications (Under Review)</strong>, 2026.<br>
 † Contributed equally.
 
 **Brief Description:**  
