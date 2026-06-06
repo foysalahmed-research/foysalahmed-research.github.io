@@ -58,40 +58,27 @@ I received my **Bachelor’s degree in Software Engineering** from **Daffodil In
 
 ## Upcoming & Ongoing Projects
 
-### LiteUAV-Det: A Lightweight Network for Robust Small-Object Detection in Complex Aerial Scenes
+### LiteFPV-SOD: An Ultra-Lightweight Detector for Real-Time Small-Object Detection on Edge-Deployed FPV Drones
 
 Sayed Jobaer†, A. A. M. Muzahid*, Muhammad Ather Iqbal Hussain †, **Foysal Ahmed †**, Xiaoshan Bai, Hua Han, Ferdous Sohel* <br>
-<strong>Neurocomputing (Under Review)</strong>, 2026.<br>
+<strong>Expert Systems With Applications(Under Review)</strong>, 2026.<br>
 † Contributed equally.
 
 **Brief Description:**  
-LiteUAV-Det is a robust lightweight object detection framework designed for small, flat, fast-moving, and motion-blurred objects in challenging UAV scenarios. It targets complex aerial environments characterized by high altitude, low illumination, and severe motion blur, where conventional SOTA detectors often fail due to strong pixel-level similarity between targets and background.
+LiteFPV-SOD is an ultra-lightweight object detector designed for real-time small-object detection in UAV and FPV-drone imagery. The framework targets challenging aerial scenes where objects are small, visually weak, and affected by high altitude, poor illumination, motion blur, cluttered backgrounds, and low foreground-background contrast.
 
 **Resources**  
-- 📄 **Paper:** Under Review (Major revision submitted)
-- 💻 **Code:** [https://github.com/  ](https://github.com/dhuvisionlab/LiteUAV-Det)
+- 📄 **Paper:** Under Review 
+- 💻 **Code:** [https://github.com/  ](https://github.com/dhuvisionlab/LiteFPV-SOD)
 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/LiteUAV-Det_Fig.1.png" width="85%" />
+      <img src="assets/LiteFPV-SOD_Fig_1.jpg" width="85%" />
     </td>
   </tr>
 </table>
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="assets/LiteUAV-Det_model.jpg" width="85%" />
-    </td>
-  </tr>
-</table>
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="assets/LiteUAV-Det_Fig.16.jpg" width="85%" />
-    </td>
-  </tr>
-</table>
+
 
 ---
 
