@@ -97,6 +97,45 @@ LiteUAV-Det is a robust lightweight object detection framework designed for smal
 
 ## Publications (Selected)
 
+### LiteUAV-Det: A Lightweight Network for Robust Small-Object Detection in Complex Aerial Scenes
+
+Sayed Jobaer†, A. A. M. Muzahid*, Muhammad Ather Iqbal Hussain †, **Foysal Ahmed †**, Xiaoshan Bai, Hua Han, Ferdous Sohel* <br>
+<strong>Neurocomputing</strong>, 2026.<br>
+† Contributed equally.
+
+**Brief Description:**  
+LiteUAV-Det is a robust lightweight object detection framework designed for small, flat, fast-moving, and motion-blurred objects in challenging UAV scenarios. It targets complex aerial environments characterized by high altitude, low illumination, and severe motion blur, where conventional SOTA detectors often fail due to strong pixel-level similarity between targets and background.
+
+**Resources**  
+- 📄 **Paper:**  [https://doi.org/10.1016/j.neucom.2026.133782](https://doi.org/10.1016/j.neucom.2026.133782)
+- 💻 **Code:** [https://github.com/  ](https://github.com/dhuvisionlab/LiteUAV-Det)
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/LiteUAV-Det_Fig.1.png" width="85%" />
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/LiteUAV-Det_model.jpg" width="85%" />
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/LiteUAV-Det_Fig.16.jpg" width="85%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+
+
 ### Pepper-4D: spatiotemporal 3D pepper crop dataset for phenotyping
 
 **F. Ahmed†**, D. Li†, B. Zhao, Z. Wang, J. Huang, T. Li, J. Huang, J. Hou, S. Jobaer, and H. Yan* <br>
